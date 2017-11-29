@@ -1,0 +1,2 @@
+/home/gemoc/Desktop/gemoc_CSV_V2_Lucas_Kacem/MQTT.csv
+/home/gemoc/Desktop/gemoc_CSV_V2_Lucas_Kacem/MQTT.csv
